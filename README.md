@@ -1,13 +1,13 @@
 # MediaMelon React Native Video SDK
 
 ## Overview
-The MediaMelon SDK provides comprehensive video engagement and Quality of Experience (QoE) monitoring for React Native applications using `react-native-video`.
+The MediaMelon SDK provides comprehensive video engagement and Quality of Experience (QoE) monitoring for React Native applications using `reactnative-video`.
 
 ## Documentation
 Visit our [documentation](https://docs.mediamelon.com/mediamelon/smartsight-player-sdk-integration/react-native/react-native-video-v5.2.0-with-mediamelon-sdk) to get started.
 
 ## Requirements
-- A functioning React Native application that uses `react-native-video`.
+- A functioning React Native application that uses `reactnative-video`.
 - React Native Video
 
 ## Installation
@@ -15,18 +15,18 @@ Install the SDK from our repository:
 
 for react native video (5.0.2)
 ```sh
-npm i mediamelon-react-native-video@1.0.0
+npm i mediamelon-reactnative-video@1.0.0
 ```
 for react native video (6.4.2)
 ```sh
-npm i mediamelon-react-native-video@2.0.0
+npm i mediamelon-reactnative-video@2.0.0
 ```
 
 Usage
 The MediaMelon SDK wraps your Video component in a higher-order component to provide additional monitoring and analytics capabilities.
 
 ```javascript
-import mmReactNativeVideo from 'mediamelon-react-native-video'; // Import the SDK
+import mmReactNativeVideo from 'mediamelon-reactnative-video'; // Import the SDK
 
 // Wrap the `Video` component with MediaMelon functionality
 const MMPlayer = mmReactNativeVideo(Video);
