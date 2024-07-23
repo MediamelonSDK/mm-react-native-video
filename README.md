@@ -1,13 +1,13 @@
 # MediaMelon React Native Video SDK
 
 ## Overview
-The MediaMelon SDK provides comprehensive video engagement and Quality of Experience (QoE) monitoring for React Native applications using `reactnative-video`.
+The MediaMelon SDK provides comprehensive video engagement and Quality of Experience (QoE) monitoring for React Native applications using `react-native-video`.
 
 ## Documentation
 Visit our [documentation](https://docs.mediamelon.com/mediamelon/smartsight-player-sdk-integration/react-native/react-native-video-v5.2.0-with-mediamelon-sdk) to get started.
 
 ## Requirements
-- A functioning React Native application that uses `reactnative-video`.
+- A functioning React Native application that uses `react-native-video`.
 - React Native Video
 
 ## Installation
