@@ -1,0 +1,24 @@
+{
+  "name": "mediamelon-reactnative-video",
+  "version": "1.0.0",
+  "description": "MediaMelon React Native Video",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediamelonSDK/mm-react-native-video.git"
+  },
+  "keywords": [
+    "Mediamelon",
+    "React-Native-Video"
+  ],
+  "author": "MediaMelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediamelonSDK/mm-react-native-video/issues"
+  },
+  "homepage": "https://github.com/MediamelonSDK/mm-react-native-video#readme"
+}
